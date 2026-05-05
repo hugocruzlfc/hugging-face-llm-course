@@ -1,5 +1,3 @@
-transformers-course
-
 # Transformers Course
 
 This repository contains the code and resources for the Transformers Course by Hugging Face, which is designed to teach you how to use transformer models for natural language processing tasks. The course covers various topics, including:
